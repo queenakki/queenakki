@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @queenakki
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in coding(logical)
+- 🌱 I’m currently learning data scince
+- 💞️ I’m looking to collaborate on online works 
 - 📫 How to reach me ...
 
 <!---

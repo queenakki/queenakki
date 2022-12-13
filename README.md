@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @queenakki
 - 👀 I’m interested in coding(logical)
-- 🌱 I’m currently learning data scince
+- 🌱 I’m a coder of python.Machine Learning,Data science 
 - 💞️ I’m looking to collaborate on online works 
 - 📫 How to reach me ...
 
